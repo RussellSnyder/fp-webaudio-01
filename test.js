@@ -69,9 +69,9 @@ var melodyFour = new sequenceMaker(instrumentTwo,1.2);
 
 
 // melodyOne();
-melodyTwo();
-melodyThree();
-melodyFour();
+// melodyTwo();
+// melodyThree();
+// melodyFour();
 // play(0, 300, 0.5,'square')
 // play(1, 1000, 0.5,'square')
 // play(2, 1500, 0.5,'square')

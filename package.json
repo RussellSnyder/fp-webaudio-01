@@ -1,0 +1,23 @@
+{
+  "name": "fp-webaudio-01",
+  "version": "0.0.1",
+  "description": "functional web audio programming",
+  "main": "composition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussellSnyder/fp-webaudio-01.git"
+  },
+  "author": "Russell Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussellSnyder/fp-webaudio-01/issues"
+  },
+  "homepage": "https://github.com/RussellSnyder/fp-webaudio-01#readme",
+  "dependencies": {
+    "bjorklund": "^1.0.4",
+    "ramda": "^0.19.1"
+  }
+}
